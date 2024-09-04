@@ -1,0 +1,663 @@
+{
+  "vinery:flower_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:birch_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:window": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crested_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "extradelight:start": {
+    "criteria": {
+      "start": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "ulterlands:the_ulterlands": {
+    "criteria": {
+      "the_ulterlands": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:big_table": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:loam": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_boots": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:basket": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-09-01 22:02:00 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-09-01 21:19:46 +0800"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:red_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:acacia_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:grapevine_lattice": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:mangrove_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:mangrove_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:birch_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:jungle_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:acacia_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:loam_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:stripped_cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-09-01 21:59:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-09-01 22:29:22 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_apron": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2024-09-01 21:17:01 +0800",
+      "minecraft:beach": "2024-09-01 21:18:03 +0800",
+      "minecraft:river": "2024-09-01 21:29:32 +0800",
+      "minecraft:lush_caves": "2024-09-01 22:06:44 +0800",
+      "minecraft:windswept_gravelly_hills": "2024-09-01 21:15:44 +0800"
+    },
+    "done": false
+  },
+  "vinery:loam_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-09-01 22:11:43 +0800"
+    },
+    "done": true
+  },
+  "extradelight:food": {
+    "criteria": {
+      "food": "2024-09-01 22:03:09 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:jungle_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-01 22:03:09 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-09-01 21:15:43 +0800",
+      "inv_changed-diamond": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:flower_box": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-09-01 21:17:53 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-09-01 21:19:46 +0800"
+    },
+    "done": false
+  },
+  "nethervinery:improved_nether_fizz": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_door": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:white_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-09-01 22:06:00 +0800",
+      "minecraft:creeper": "2024-09-01 21:59:03 +0800"
+    },
+    "done": false
+  },
+  "vinery:cherry_button": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:improved_lava_fizz": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:campfire": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:shelf": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crested_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_sign": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-09-01 22:03:09 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:wine_press": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-01 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
