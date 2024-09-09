@@ -249,6 +249,12 @@
     },
     "done": true
   },
+  "refinedstorage:monitoring": {
+    "criteria": {
+      "crafting_monitor_in_inventory": "2024-09-09 21:16:01 +0800"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2024-08-10 22:18:49 +0800"
@@ -312,6 +318,12 @@
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-08-10 22:14:14 +0800"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2024-09-09 21:16:12 +0800"
     },
     "done": true
   },
@@ -673,6 +685,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-08-15 23:15:57 +0800"
+    },
+    "done": true
+  },
+  "refinedstorage:autocrafting": {
+    "criteria": {
+      "crafter_in_inventory": "2024-09-09 21:16:04 +0800"
     },
     "done": true
   },
